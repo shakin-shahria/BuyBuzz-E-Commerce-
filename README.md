@@ -49,13 +49,13 @@ https://github.com/user-attachments/assets/b3d023fd-8bc4-4446-acb7-b08ed326ec78
 ---
 
 ## Folder Structure
+
 buybuzz/
-├─ frontend/ # React app
-├─ backend/ # Laravel backend & admin panel
+├─ frontend/    # React app
+├─ backend/     # Laravel backend & admin panel
 ├─ README.md
 
-yaml
-Copy code
+
 
 ---
 
@@ -81,24 +81,5 @@ Open issues or submit pull requests. Contributions to improve features, fix bugs
 License
 This project is licensed under the MIT License.
 
-yaml
-Copy code
-
----
-
-If you want, I can **also make a final version with badges, color highlights, and a very polished GitHub README look** so it feels like a professional project showcase.  
-
-Do you want me to do that?
 
 
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info.
